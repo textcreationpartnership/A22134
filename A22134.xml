@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames, by the grace of God, king of England, Scotland, France &amp; Ireland defender of the faith &amp;c. to all and singuler archbishops ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22134</idno>
+            <idno type="STC">STC 8542</idno>
+            <idno type="STC">ESTC S3828</idno>
+            <idno type="EEBO-CITATION">33151049</idno>
+            <idno type="OCLC">ocm 33151049</idno>
+            <idno type="VID">28887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:83)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames, by the grace of God, king of England, Scotland, France &amp; Ireland defender of the faith &amp;c. to all and singuler archbishops ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.P.,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1616]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For a one-year collection for relief of John Butler for loss of his brewery by fire, May 16, 1616.</note>
+                  <note>"Witnesse our selfe at Westminster the fifteenth day of June, in the fourteenth yeare of our Raigne of England, France, and Ireland, and of Scotland the nine and Fortieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butler, John, --  brewer.</term>
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Middlesex (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28887:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>I R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>AMES,</hi> By the grace of God, King of England, Scotland, France and Ire<g ref="char:EOLhyphen"/>land, Defender of the Faith &amp;c. To all and ſingular Archbiſhops, Biſhops, Archocacons, Deanes and their Officials, Parſons, Vicars, Curates, and all Spirituall perſons: And to all Iuſtices of Peace, Maiors, Sheriffes, Bailiffs, Conſtables, Churchwardens, and Headberowes: And to all Officers of Citties, Borroughes, Townes Corporate: And to all other our Officers Miniſters and Subiects whatſoeuer they be, as well within Li<g ref="char:EOLhyphen"/>berties as without, to whom theſe preſents ſhall come greeting. Whereas we haue been very credibly certified, by certificate vnder the hands of our truſtie and welbeloued ſub<g ref="char:EOLhyphen"/>iects, <hi>Sir Francis Darcie</hi> knight, Sir <hi>Thomas Fowler</hi> knight, Sir <hi>Lewis Lewknor</hi> knight, Sir <hi>William Slingsby</hi> knight, Sir <hi>Baptiſt Hickes</hi> knight, <hi>Nicholas Collyn</hi> and <hi>Thomas Saunderſon</hi> Eſquiers, Iuſtices of the Peace within our Countie of Middleſex: That our louing Subiect, <hi>Iohn Butler</hi> of Heaſon, in our ſayd Countie Brewer, hauing heretofore bene a man of worth and eſtimation, is now fallen into great want and pouertie, by reaſon of a ſodaine and moſt lamentable accident by fire, happening vpon Monday, being the ſixtenth day of <hi>May,</hi> laſt paſt be<g ref="char:EOLhyphen"/>fore the date hereof, about ten of the clock in the night beginning firſt in the Brew-houſe and in ſhort time increa<g ref="char:EOLhyphen"/>ſed ſo faſt and grew ſo vehement, that it could not be quenched, vntill it had quite burnt &amp; conſumed the ſaid Brew-houſe, together with his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>welling houſe, Barne, Stables, and other out-houſes, and goods and Chattells therein, amounting to the valew of a thowſand pounds at the leaſt, to the vtter vndoing of him, his poore wife and chidren, who having heretofore lived in wealth and plentie, are now like to periſh for want of thinges neceſſary, vnleſſe, the Charitable beneuolence, of our louing and well diſpoſed ſubiects, be effectually extended towards them in this their great want and miſery.</p>
+            <p>
+               <hi>KNOW</hi> yae therefore, that Wee (tendring the lamentable eſtate of our ſaid poore Subiect) of our eſpeciall grace and Princly compaſſion haue giuen and graunted, and by theſe our Letters Pattents doe giue and grant vnto our ſaid poore ſubiect <hi>Iohn Butler,</hi> and to his Deputy or Deputies, the Bearer or Bearers hereof, full power, licence, and authority, to aſke, gather, receiue and take the almes and charitable beneuolence of all our louing Subiects whatſoeuer, inhabiting within our Counties of Middleſex, Buckingham, Northamton, Leiceſtor and Warwicke, with our Citty of Couentry, And all other Cities, Townes Corporate, Priuiledged places. Pariſhes, Villages, and other places whatſoeuer, within our ſaid Counties and not elſe where, as well for and to<g ref="char:EOLhyphen"/>wards the new building of his ſaid houſe, as for and towards the reliefe and maintenance of him, his poore Wife and Children.</p>
+            <p>
+               <hi>WHEREFORE</hi> Wee will and command you and euery of you, that at ſuch times as the ſaid <hi>Iohn Butler,</hi> his Deputie or Deputies, the Bearer or Bearers hereof, ſhall come and repayre to any your Churches, Chap<g ref="char:EOLhyphen"/>pels, or other places to aſke and receiue the gratuites and charitable beneuolence of our ſaid Subiects: quietly to permit and ſuffer him or them ſo to doe, without any your lets or contradictions. And you the ſaid Parſons, Vicars and Curates, for the better ſtirring vp of a charitable deuotion, deliberately to publiſh and declare the tenor of theſe our Letters Patents vnto our ſaid ſubiects exhorting and perſwading them to extend their liberall contributi<g ref="char:EOLhyphen"/>ons in ſo good and charitable a deede: And you the Churchwardens of euery Pariſh where ſuch collection ſhall be made as aforeſaid, to collect and gather the charitable deuotion and beneuolence of our ſaid Subiects, and the ſame ſo gathered, to deliuer it to our ſaid ſubiect <hi>Iohn Butler,</hi> his Deputie or Deputies the bearer or bearers hereof, when as thereunto you ſhall be required: Any Statute, Law, Ordinance, or prouiſion heretofore made to the contrary in any wiſe notwithſtanding.</p>
+            <p>IN witnes whereof we haue cauſed theſe our Letters to be made Patents, for the ſpace of one whole yeare next after the Date hereof to indure. Witnes our ſelfe at Weſtminſter the fifteenth day of <hi>Iune,</hi> in the foureteenth yeare of our Raigne of England, France, and Ireland, and of Scotland the nine and fortieth.</p>
+            <closer>
+               <signed>Steward.</signed>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>At London Printed by T.P.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
